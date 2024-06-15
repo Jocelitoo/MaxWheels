@@ -1,0 +1,16 @@
+export const arrowCss = [
+  '!flex',
+  'content-center',
+  'items-center',
+  'rounded-full',
+  'scale-75',
+  '!w-12',
+  '!h-12',
+  'bg-gray-300',
+  '!text-black',
+  'transition',
+  'duration-500',
+  'after:!text-2xl',
+  'hover:scale-100',
+  'hover:bg-mainColor',
+];
